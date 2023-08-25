@@ -1,0 +1,34 @@
+[
+    {
+        "id": 24,
+        "titulo": "Dragon Ball Z",
+        "puntaje": 10,
+        "tipo": "Acción",
+        "season": "GT",
+        "generos": ["Acción", "Pelea"]
+    },
+    {
+        "id": 25,
+        "titulo": "One Piece",
+        "puntaje": 9,
+        "tipo": "Aventura",
+        "season": "Actual",
+        "generos": ["Acción", "Aventura"]
+    },
+    {
+        "id": 26,
+        "titulo": "Attack on Titan",
+        "puntaje": 9.5,
+        "tipo": "Drama",
+        "season": "Final",
+        "generos": ["Acción", "Drama", "Fantasía"]
+    },
+    {
+        "id": 27,
+        "titulo": "My Hero Academia",
+        "puntaje": 8.5,
+        "tipo": "Superpoderes",
+        "season": "5",
+        "generos": ["Acción", "Superpoderes", "Escolar"]
+    }
+]
